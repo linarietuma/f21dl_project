@@ -1,5 +1,7 @@
 # Data Mining & Machine Learning portfolio
 
+![](cnn_layers.png)
+
 This repository houses the porfolio for Data Mining & Machine Learning (F21DL) course and demonstrates an understanding of the following: 
 
 1. Methods for data preparation and analysis, including probabilistic/Bayesian methods of data
@@ -10,9 +12,15 @@ methods including Naïve Bayes, Linear Regression, K-nearest neighbors and Decis
 4. Neural Networks and Convolutional Neural networks.
 
 
-## About The Project
+## About 
 
-![](cnn_layers.png)
+### The Project
+
+The project aims to solve a classification problem by applying different machine learning techniques and identifying the advantages and limitations of each for the given dataset.
+
+### The Data 
+
+![](header.png)
 
 The dataset used in this coursework is an image dataset of American Sign Language (ASL) hand gestures. Creating an ML model for correctly classifying ASL gestures is the first step towards inclusion and improved accessability of services (human-to-human interactions) for people with speech and hearing impairments. ASL datasets are a staple in ML similar to MINST, meaning large datasets with preprocessed images are freely available, yet are bit more complex than MINST thus offering a good gateway into data mining and machine learning with an image dataset that is still challenging.
 
